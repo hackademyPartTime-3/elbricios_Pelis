@@ -1,0 +1,22 @@
+.font{
+    font-family: 'Bowlby One SC', cursive;
+}
+
+i{
+    color: gold;
+}
+
+.index{
+    z-index: 99;
+}
+
+h1, h5, p, label{
+    font-family: 'Allison', cursive;
+}
+
+.imagen{
+    background-image: url(./img/elbricios.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
